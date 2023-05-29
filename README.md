@@ -6,7 +6,7 @@ Frontend Developer
 
 * 🌍  I'm based in Saint-Petersburg
 * ✉️  You can contact me at [levis38@yandex.ru](mailto:levis38@yandex.ru)
-* 🚀  I'm currently working on [ATI.SU](http://ati.su)
+* 🚀  I'm currently working on [Avito](http://avito.ru)
 * 🧠  I'm learning Node.js
 
 ### Skills
